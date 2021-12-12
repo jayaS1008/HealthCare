@@ -1,0 +1,40 @@
+*{
+   background-color: #700B97;
+}
+.btn btn-primary{
+    color:#700B97 ;
+}
+.login{
+    height: 50%;
+    width: 30%;
+    margin :auto auto;
+    color:black;
+    background-color:whitesmoke;
+    padding: 50px 100px;
+    border-radius: 7px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+.input{
+   
+    margin:20px auto;
+    background-color: #C7BEA2;
+}
+.button{
+    color: #94B3FD;
+    width: max-content;
+}
+.or{
+    background-color:whitesmoke ;
+}
+.title{
+    background-color:whitesmoke;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
